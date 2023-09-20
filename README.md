@@ -4,7 +4,7 @@
 
 You have a client that continuously accumulates data and wants to process it further. To do this, the client wants to use the [Apache Kafka - Data Streaming Platform](https://kafka.apache.org/) in a first step. In a second step it will use a different communication pattern. The application runs distributed in different Docker containers. Define what kind of data your client has and what problem they want to solve with it. Describe the initial situation and the problem to be solved. Then implement your methods according to the tasks below. Write a short report and answer the questions of each of the 4 parts bellow. Include measurements/plots where meaningful.
 
-Use GitHubClassroom to work on this mini challenge: 
+[Use GitHubClassroom to work on this mini challenge](https://classroom.github.com/a/GJKnhHY_)
 
 ### Intro to Kafka using Docker containers
 
